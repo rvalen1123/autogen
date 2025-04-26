@@ -1,0 +1,6 @@
+flask==2.3.2
+autogen-agentchat==0.2.0
+requests==2.30.0
+python-dotenv==1.0.0
+pydantic==1.10.8
+gunicorn==20.1.0
